@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [FirstTalk](https://github.com/aasana-lalani25/FirstTalk)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Flutter,Laravel,AI/ML**
 
 - 📫 How to reach me **aasanalalani25@gmail.com**
 
