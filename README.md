@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aasana Lalani</h1>
-<h3 align="center">Results-driven IT graduate with a passion for technology and strong foundation in Information Technology. Skilled in problem-solving, communication, and relationship-building. Seeking a challenging role in a reputable organization to leverage my technical expertise and contribute to mutual growth.</h3>
+<h3 align="center">Learning and Building with code!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aasana-lalani25&label=Profile%20views&color=0e75b6&style=flat" alt="aasana-lalani25" /> </p>
 
